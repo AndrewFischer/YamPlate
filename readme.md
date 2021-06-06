@@ -2,7 +2,7 @@
 
 YamPlate is an FR4 plate for mattdibi's YamPad. The original plate goes around the display, which I didn't want.
 <p align="center">
-<img src="img/yamplate.jpg" alt="YamPlate PCBs" width="600"/>
+<img src="img/YamPlate.jpg" alt="YamPlate PCBs" width="600"/>
 </p>
 ## See Also
 https://github.com/mattdibi/yampad
