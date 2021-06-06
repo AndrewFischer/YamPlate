@@ -3,8 +3,6 @@
 YamPlate is an FR4 plate for mattdibi's YamPad. The original plate goes around the display, which I didn't want.
  
 
-## Step 1 - Clone the repository to a folder on your harddrive using git
-![Clone](docs/1-clone.png)
 
 ## ToDo
 Add access holes for the mounting screws on the YamPad.
