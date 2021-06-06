@@ -12,7 +12,7 @@ Rev 0.1 is unit tested for fit but does not have holes to access the mounting sc
 
 ## Disclaimer
 :warning:  The files are provided as is.  I do not warrant the accuracy, completeness or suitabilty of the information in this repository. <br>
-<b>JLCPCB may impose a $15 surcharge to manufacture this board. 
+<b>JLCPCB may impose a surcharge to manufacture this board. 
 
 ## License
 
