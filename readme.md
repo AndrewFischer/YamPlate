@@ -2,10 +2,12 @@
 
 YamPlate is an FR4 plate for mattdibi's YamPad. The original plate goes around the display, which I didn't want.
  
-
+## See Also
+https://github.com/mattdibi/yampad
 
 ## ToDo
-Add access holes for the mounting screws on the YamPad.
+Add access holes for the mounting screws on the YamPad.<br>
+The slots for the 2U keys are not pretty. 
 
 ## History
 Rev 0.1 is unit tested for fit but does not have holes to access the mounting screws. 
