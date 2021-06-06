@@ -8,7 +8,7 @@ YamPlate is an FR4 plate for mattdibi's YamPad. The original plate goes around t
 Add access holes for the mounting screws on the YamPad.
 
 ## History
-Rev 0.1.  Initial entry.   Rev 0.1 is tested for fit and works but does not have holes to access the mounting screws. 
+Rev 0.1 is unit tested for fit but does not have holes to access the mounting screws. 
 
 ## Disclaimer
 :warning:  The files are provided as is.  I do not warrant the accuracy, completeness or suitabilty of the information in this repository. <br>
