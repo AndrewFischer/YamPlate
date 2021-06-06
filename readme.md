@@ -22,7 +22,7 @@ Rev 0.1 is unit tested for fit but does not have holes to access the mounting sc
 ## License
 
 Copyright (c) 2021 Andrew Fischer <br>
-<b>Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)<b><br>
+<b>Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</b><br>
 https://creativecommons.org/licenses/by-nc/4.0/
 
 You are free to:<br>
